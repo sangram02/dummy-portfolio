@@ -1,0 +1,110 @@
+.container{
+    background-color: black;
+}
+.carousel-item{
+    height: 500px;
+}
+body{
+    background-color: black;
+}
+.abth{
+    color: greenyellow;
+    font-family: 'Shadows Into Light', cursive;
+    /* text-decoration: underline; */
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 30px 0px;
+    text-decoration: underline;
+}
+
+.text{
+    color: white;
+    float: left;
+    margin: 110px 0px;
+}
+#in{
+    width: 310px;
+    height: 310px;
+    border-radius: 10%;
+}
+.pic{
+    margin: 100px 100px;
+    float: left;
+}
+.abt{
+    float: left;
+}
+#im1{
+    width: 30px;
+    height: 30px;
+    margin: 300px 0px 0px -335px;
+}
+#im2{
+    width: 30px;
+    height: 30px;
+    margin: 300px 10px 0px 10px;
+}
+#im3{
+    width: 30px;
+    height: 30px;
+    margin: 300px 0px 0px 0px;
+}
+#hell{
+    background-color: white;
+    margin: 500px 0px;
+}
+.head{
+    color: navy;
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 30px 300px;
+    text-decoration: underline;
+    font-family: 'Inconsolata', monospace;
+}
+#cr1{
+    display: inline-block;
+    margin: 50px 80px;
+}
+#cr2{
+    display: inline-block;
+    margin: 50px 50px;
+}
+#cr3{
+    display: inline-block;
+    margin: 50px 50px;
+}
+.act{
+    color: greenyellow;
+    font-family: 'Shadows Into Light', cursive;
+    text-decoration: underline;
+    font-size: 40px;
+    text-align: center;
+    margin: -450px 0px;
+}
+.acc{
+    margin: 0px 80px;
+}
+.ull{
+    color: white;
+    margin: 500px 00px 00px 70px;
+}
+.hell1{
+    background-color: white;
+    height: 680px;
+}
+.cont{
+    background-color: bisque;
+    width: 30%;
+    margin: auto;
+}
+form{
+    margin: 50px 50px 50px 50px;
+    padding: 10px;
+}
+#ft{
+    background-color: aquamarine;
+    text-align: center;
+    /* margin: 30px 0px; */
+}
